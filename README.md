@@ -19,7 +19,7 @@ Develop a prototype that uses this knowledge base as a baseline and automaticall
 Kaggle: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
 
 ## References
-https://www.kaggle.com/c/msk-redefining-cancer-treatment
-https://www.appliedaicourse.com/
-https://www.coursera.org/specializations/deep-learning
-Dataset: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+https://www.kaggle.com/c/msk-redefining-cancer-treatment <br/> 
+https://www.appliedaicourse.com/ <br/> 
+https://www.coursera.org/specializations/deep-learning <br/> 
+Dataset: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data <br/> 
