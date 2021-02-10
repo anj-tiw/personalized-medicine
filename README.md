@@ -2,7 +2,7 @@
 
 Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/
 
-Memorial Sloan Kettering Cancer Center (MSKCC) launched this competition, accepted by the NIPS 2017 Competition Track.
+Memorial Sloan Kettering Cancer Center (MSKCC) launched this competition, accepted by the NeurIPS 2017 Competition Track.
 
 A lot has been said during the past several years about how precision medicine and, more concretely, how genetic testing is going to disrupt the way diseases like cancer are treated. But this is only partially happening due to the huge amount of manual work still required. 
 
