@@ -1,6 +1,5 @@
 # Personalized Medicine: Classifying Clinically Actionable Genetic Mutations
 
-This competition was featured on Kaggle. The objective was to automatically classifies genetic variations.  
 Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/
 
 Memorial Sloan Kettering Cancer Center (MSKCC) launched this competition, accepted by the NIPS 2017 Competition Track.
